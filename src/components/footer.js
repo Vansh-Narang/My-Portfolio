@@ -9,11 +9,12 @@ const Footer = () => {
                 <div className="left">
                     <div className="location">
                         <FaHome size={20} style={{ color: "white", margin: "2rem" }} />
+                        <p> Indira Colony Jagadhri</p>
                     </div>
-                    <div>
+                    {/* <div>
                         <p> Indira Colony</p>
                         <p>Jagadhri</p>
-                    </div>
+                    </div> */}
                     <div className="phone">
                         <h4>
                             <FaPhone size={20} style={{ color: "white", margin: "2rem" }} />
@@ -23,7 +24,7 @@ const Footer = () => {
                     <div className="gmail">
                         <h4>
                             <FaMailBulk size={20} style={{ color: "white", margin: "2rem" }} />
-                            vanshnarang49906@gmail.com
+                            vanshnarang@gmail.com
                         </h4>
                     </div>
                 </div>

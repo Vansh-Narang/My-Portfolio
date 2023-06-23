@@ -30,13 +30,13 @@
 
 }
 
-.right {
+/* .right {
     height: 100%;
     max-width: 100%;
     display: flex;
     flex-direction: column;
     padding: 1rem;
-}
+} */
 
 .social {
     margin-top: 1rem;
@@ -44,13 +44,22 @@
 }
 
 h4 {
-    font-size: 1.2rem;
+    font-size: 1rem;
     padding-bottom: 0.7rem;
 }
 
 p {
-    font-size: 1.2rem;                  
+    font-size: 1.2rem;
 }
+
+.right h4 {
+    padding-left: 2rem;
+}
+
+.right p {
+    padding-left: 2rem;
+}
+
 
 @media screen and (max-width: 768px) {
     .footer-container {
