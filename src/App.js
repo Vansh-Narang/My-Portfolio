@@ -23,3 +23,6 @@ function App() {
 }
 
 export default App;
+
+
+//For making props to be passed with componets make a class and refactoe the code and pass them as the props to fetch different values for the different pages
