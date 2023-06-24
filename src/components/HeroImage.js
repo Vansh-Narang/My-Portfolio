@@ -14,7 +14,7 @@ const HeroImage = () => {
                     Hi I am a developer
                 </p>
                 <h1>
-                    Developer
+                    Solving Problems
                 </h1>
                 <div>
                     <Link to="/project" className='btn'>

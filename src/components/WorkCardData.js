@@ -6,21 +6,21 @@ import p3 from "../assets/p3.jpg"
 const ProjectCardData = [
     {
         imgSrc: p1,
-        title: "Project 1",
-        text: "P1",
-        view: "https://www.google.com/"
+        title: "Danation",
+        text: "An app for society helping needy people",
+        view: "https://github.com/Vansh-Narang/Donation"
     },
     {
         imgSrc: p2,
-        title: "Project 2",
-        text: "P1",
-        view: "https://www.google.com/"
+        title: "FerryWala",
+        text: "An app for providing employement to street vendors",
+        view: "https://github.com/Vansh-Narang/Ferrywala"
     },
     {
         imgSrc: p3,
-        title: "Project 3",
-        text: "P1",
-        view: "https://www.google.com/"
+        title: "Audio Bot",
+        text: "An app answering the questions like chat gpt having mic and audio option",
+        view: "https://github.com/Vansh-Narang/AudioBot"
     }
 ]
 export default ProjectCardData;

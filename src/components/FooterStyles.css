@@ -26,11 +26,16 @@
 }
 
 .location p {
-    line-height: 30px;
+    line-height: 90px;
 
 }
 
-/* .right {
+.right {
+    padding: 1rem;
+}
+
+/* 
+.right {
     height: 100%;
     max-width: 100%;
     display: flex;
