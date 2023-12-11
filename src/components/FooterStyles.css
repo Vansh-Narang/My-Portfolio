@@ -65,9 +65,13 @@ p {
     padding-left: 2rem;
 }
 
-.email {
-    position: absolute;
-    padding-left: 7%;
+.reach {
+    padding-top: 15px;
+    color: white;
+}
+
+.social {
+    margin-top: 20px;
 }
 
 
