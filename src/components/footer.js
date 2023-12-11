@@ -17,9 +17,9 @@ const Footer = () => {
                         <p>Jagadhri</p>
                     </div> */}
                     <div className="gmail">
-                        <h4>
+                        <h4 className="gmailh4">
                             <FaMailBulk size={20} style={{ color: "white", margin: "2rem" }} />
-                            vanshnarang@gmail.com
+                            <p className="email">vanshnarang49906@gmail.com</p>
                         </h4>
                     </div>
                 </div>

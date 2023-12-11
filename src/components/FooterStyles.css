@@ -65,6 +65,11 @@ p {
     padding-left: 2rem;
 }
 
+.email {
+    position: absolute;
+    padding-left: 7%;
+}
+
 
 @media screen and (max-width: 768px) {
     .footer-container {

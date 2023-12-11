@@ -7,19 +7,19 @@ const ProjectCardData = [
     {
         imgSrc: p1,
         title: "Danation",
-        text: "An app for society helping needy people",
+        text: "Developed an app for society helping needy people",
         view: "https://github.com/Vansh-Narang/Donation"
     },
     {
         imgSrc: p2,
         title: "FerryWala",
-        text: "An app for providing employement to street vendors",
+        text: "Developed an app for providing employement to street vendors",
         view: "https://github.com/Vansh-Narang/Ferrywala"
     },
     {
         imgSrc: p3,
         title: "Audio Bot",
-        text: "An app answering the questions like chat gpt having mic and audio option",
+        text: "Developed a bot having audio and mic functionality",
         view: "https://github.com/Vansh-Narang/AudioBot"
     }
 ]

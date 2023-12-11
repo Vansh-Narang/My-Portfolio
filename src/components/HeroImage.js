@@ -11,7 +11,12 @@ const HeroImage = () => {
             </div>
             <div className='content'>
                 <p>
-                    Hi I am a developer
+                    Hi I am Vansh Narang
+                </p>
+                <br>
+                </br>
+                <p>
+                    Developer
                 </p>
                 <h1>
                     Solving Problems
@@ -25,7 +30,7 @@ const HeroImage = () => {
                     </Link>
                 </div>
             </div>
-        </div>
+        </div >
     )
 }
 
